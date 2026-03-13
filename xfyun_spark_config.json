@@ -1,0 +1,8 @@
+{
+  "appid": "374f7ad0",
+  "api_secret": "MjYzNzNjZWQ4YWExNmE1NmZmZmVkMzNh",
+  "api_key": "eeedc956990464d15df8b15ac4516e26",
+  "model": "spark-x2",
+  "api_url": "wss://spark-api.xf-yun.com/x2",
+  "domain": "spark-x"
+}
